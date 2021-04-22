@@ -1,1 +1,1 @@
-# Girilen-3-say-n-n-s-ralamas-ve-aradaki-farklar-
+# The-order-of-the-3-numbers-entered-and-their-differences
